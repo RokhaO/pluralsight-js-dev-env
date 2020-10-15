@@ -2,12 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1f91b76-69b7-430d-9c10-bc119339ebc6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buildScripts/srcServer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buildScripts/startMessage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,6 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -37,7 +49,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602687634508</updated>
-      <workItem from="1602687635823" duration="2162000" />
+      <workItem from="1602687635823" duration="4052000" />
+      <workItem from="1602692669243" duration="136000" />
+      <workItem from="1602747929491" duration="4732000" />
     </task>
     <servers />
   </component>
@@ -48,25 +62,25 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1480" height="420" key="GridCell.Tab.0.bottom" timestamp="1602688993615">
+    <state width="1480" height="420" key="GridCell.Tab.0.bottom" timestamp="1602692560829">
       <screen x="0" y="0" width="1500" height="970" />
     </state>
-    <state width="1480" height="420" key="GridCell.Tab.0.bottom/0.0.1500.970/-1920.0.1920.1050@0.0.1500.970" timestamp="1602688993615" />
-    <state width="1480" height="420" key="GridCell.Tab.0.center" timestamp="1602688993614">
+    <state width="1480" height="420" key="GridCell.Tab.0.bottom/0.0.1500.970/-1920.0.1920.1050@0.0.1500.970" timestamp="1602692560829" />
+    <state width="1480" height="420" key="GridCell.Tab.0.center" timestamp="1602692560829">
       <screen x="0" y="0" width="1500" height="970" />
     </state>
-    <state width="1480" height="420" key="GridCell.Tab.0.center/0.0.1500.970/-1920.0.1920.1050@0.0.1500.970" timestamp="1602688993614" />
-    <state width="1480" height="420" key="GridCell.Tab.0.left" timestamp="1602688993614">
+    <state width="1480" height="420" key="GridCell.Tab.0.center/0.0.1500.970/-1920.0.1920.1050@0.0.1500.970" timestamp="1602692560829" />
+    <state width="1480" height="420" key="GridCell.Tab.0.left" timestamp="1602692560829">
       <screen x="0" y="0" width="1500" height="970" />
     </state>
-    <state width="1480" height="420" key="GridCell.Tab.0.left/0.0.1500.970/-1920.0.1920.1050@0.0.1500.970" timestamp="1602688993614" />
-    <state width="1480" height="420" key="GridCell.Tab.0.right" timestamp="1602688993614">
+    <state width="1480" height="420" key="GridCell.Tab.0.left/0.0.1500.970/-1920.0.1920.1050@0.0.1500.970" timestamp="1602692560829" />
+    <state width="1480" height="420" key="GridCell.Tab.0.right" timestamp="1602692560829">
       <screen x="0" y="0" width="1500" height="970" />
     </state>
-    <state width="1480" height="420" key="GridCell.Tab.0.right/0.0.1500.970/-1920.0.1920.1050@0.0.1500.970" timestamp="1602688993614" />
-    <state x="282" y="130" key="SettingsEditor" timestamp="1602687689968">
+    <state width="1480" height="420" key="GridCell.Tab.0.right/0.0.1500.970/-1920.0.1920.1050@0.0.1500.970" timestamp="1602692560829" />
+    <state x="282" y="130" key="SettingsEditor" timestamp="1602747995533">
       <screen x="0" y="0" width="1500" height="970" />
     </state>
-    <state x="282" y="130" key="SettingsEditor/0.0.1500.970/-1920.0.1920.1050@0.0.1500.970" timestamp="1602687689968" />
+    <state x="282" y="130" key="SettingsEditor/0.0.1500.970/-1920.0.1920.1050@0.0.1500.970" timestamp="1602747995533" />
   </component>
 </project>
