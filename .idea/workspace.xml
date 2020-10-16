@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1f91b76-69b7-430d-9c10-bc119339ebc6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/buildScripts/testSetup.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildScripts/srcServer.js" beforeDir="false" afterPath="$PROJECT_DIR$/buildScripts/srcServer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildScripts/startMessage.js" beforeDir="false" afterPath="$PROJECT_DIR$/buildScripts/startMessage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +87,7 @@
       <workItem from="1602775006006" duration="1548000" />
       <workItem from="1602776582832" duration="281000" />
       <workItem from="1602776880875" duration="675000" />
-      <workItem from="1602840576626" duration="476000" />
+      <workItem from="1602840576626" duration="1017000" />
     </task>
     <task id="LOCAL-00001" summary="ES6 startMessage.js">
       <created>1602765437509</created>
