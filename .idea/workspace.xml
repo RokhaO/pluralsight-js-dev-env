@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1f91b76-69b7-430d-9c10-bc119339ebc6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/appveyor.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.appveyor.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/appveyor.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appveyor.yml" beforeDir="false" afterPath="$PROJECT_DIR$/appveyor.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +87,7 @@
       <workItem from="1602775006006" duration="1548000" />
       <workItem from="1602776582832" duration="281000" />
       <workItem from="1602776880875" duration="675000" />
-      <workItem from="1602840576626" duration="4413000" />
+      <workItem from="1602840576626" duration="4502000" />
     </task>
     <task id="LOCAL-00001" summary="ES6 startMessage.js">
       <created>1602765437509</created>
