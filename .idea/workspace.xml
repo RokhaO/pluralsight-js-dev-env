@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c1f91b76-69b7-430d-9c10-bc119339ebc6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +88,7 @@
       <workItem from="1602775006006" duration="1548000" />
       <workItem from="1602776582832" duration="281000" />
       <workItem from="1602776880875" duration="675000" />
-      <workItem from="1602840576626" duration="2497000" />
+      <workItem from="1602840576626" duration="3332000" />
     </task>
     <task id="LOCAL-00001" summary="ES6 startMessage.js">
       <created>1602765437509</created>
@@ -204,10 +203,10 @@
       <screen x="0" y="0" width="1500" height="970" />
     </state>
     <state width="1460" height="354" key="GridCell.Tab.3.right/0.0.1500.970/-1920.0.1920.1050@0.0.1500.970" timestamp="1602776568575" />
-    <state x="282" y="130" key="SettingsEditor" timestamp="1602774975050">
+    <state x="282" y="130" key="SettingsEditor" timestamp="1602851601454">
       <screen x="0" y="0" width="1500" height="970" />
     </state>
-    <state x="282" y="130" key="SettingsEditor/0.0.1500.970/-1920.0.1920.1050@0.0.1500.970" timestamp="1602774975050" />
+    <state x="282" y="130" key="SettingsEditor/0.0.1500.970/-1920.0.1920.1050@0.0.1500.970" timestamp="1602851601454" />
     <state x="343" y="218" key="Vcs.Push.Dialog.v2" timestamp="1602841623398">
       <screen x="0" y="0" width="1500" height="970" />
     </state>
