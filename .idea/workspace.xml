@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1f91b76-69b7-430d-9c10-bc119339ebc6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/appveyor.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.appveyor.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/appveyor.yml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1isDv9Rormn8zh2bdb8q7kRB5zR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lint" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="lint" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.lint" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1f91b76-69b7-430d-9c10-bc119339ebc6" name="Default Changelist" comment="" />
+      <created>1602687634508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602687634508</updated>
+      <workItem from="1602687635823" duration="4052000" />
+      <workItem from="1602692669243" duration="136000" />
+      <workItem from="1602747929491" duration="5902000" />
+      <workItem from="1602770250111" duration="299000" />
+      <workItem from="1602770573735" duration="3951000" />
+      <workItem from="1602775006006" duration="1548000" />
+      <workItem from="1602776582832" duration="281000" />
+      <workItem from="1602776880875" duration="675000" />
+      <workItem from="1602840576626" duration="4413000" />
+    </task>
+    <task id="LOCAL-00001" summary="ES6 startMessage.js">
+      <created>1602765437509</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602765437509</updated>
+    </task>
+    <task id="LOCAL-00002" summary="babel&#10;# src&#10;# .babelrc&#10;# package.json">
+      <created>1602765816124</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602765816124</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Bundling chapter">
+      <created>1602774538920</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602774538920</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add .test.js to src">
+      <created>1602841619344</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602841619344</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="ES6 startMessage.js" />
+    <MESSAGE value="babel&#10;# src&#10;# .babelrc&#10;# package.json" />
+    <MESSAGE value="Bundling chapter" />
+    <MESSAGE value="add .test.js to src" />
+    <option name="LAST_COMMIT_MESSAGE" value="add .test.js to src" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="170" y="49" key="CommitChangelistDialog2" timestamp="1602841618809">
+      <screen x="0" y="0" width="1500" height="970" />
+    </state>
+    <state x="170" y="49" key="CommitChangelistDialog2/0.0.1500.970/-1920.0.1920.1050@0.0.1500.970" timestamp="1602841618809" />
+    <state width="1460" height="252" key="GridCell.Tab.0.bottom" timestamp="1602776568597">
+      <screen x="0" y="0" width="1500" height="970" />
+    </state>
+    <state width="1460" height="252" key="GridCell.Tab.0.bottom/0.0.1500.970/-1920.0.1920.1050@0.0.1500.970" timestamp="1602776568597" />
+    <state width="1460" height="252" key="GridCell.Tab.0.center" timestamp="1602776568596">
+      <screen x="0" y="0" width="1500" height="970" />
+    </state>
+    <state width="1460" height="252" key="GridCell.Tab.0.center/0.0.1500.970/-1920.0.1920.1050@0.0.1500.970" timestamp="1602776568596" />
+    <state width="1460" height="252" key="GridCell.Tab.0.left" timestamp="1602776568595">
+      <screen x="0" y="0" width="1500" height="970" />
+    </state>
+    <state width="1460" height="252" key="GridCell.Tab.0.left/0.0.1500.970/-1920.0.1920.1050@0.0.1500.970" timestamp="1602776568595" />
+    <state width="1460" height="252" key="GridCell.Tab.0.right" timestamp="1602776568596">
+      <screen x="0" y="0" width="1500" height="970" />
+    </state>
+    <state width="1460" height="252" key="GridCell.Tab.0.right/0.0.1500.970/-1920.0.1920.1050@0.0.1500.970" timestamp="1602776568596" />
+    <state width="1460" height="354" key="GridCell.Tab.1.bottom" timestamp="1602776568574">
+      <screen x="0" y="0" width="1500" height="970" />
+    </state>
+    <state width="1460" height="354" key="GridCell.Tab.1.bottom/0.0.1500.970/-1920.0.1920.1050@0.0.1500.970" timestamp="1602776568574" />
+    <state width="1460" height="354" key="GridCell.Tab.1.center" timestamp="1602776568574">
+      <screen x="0" y="0" width="1500" height="970" />
+    </state>
+    <state width="1460" height="354" key="GridCell.Tab.1.center/0.0.1500.970/-1920.0.1920.1050@0.0.1500.970" timestamp="1602776568574" />
+    <state width="1460" height="354" key="GridCell.Tab.1.left" timestamp="1602776568574">
+      <screen x="0" y="0" width="1500" height="970" />
+    </state>
+    <state width="1460" height="354" key="GridCell.Tab.1.left/0.0.1500.970/-1920.0.1920.1050@0.0.1500.970" timestamp="1602776568574" />
+    <state width="1460" height="354" key="GridCell.Tab.1.right" timestamp="1602776568574">
+      <screen x="0" y="0" width="1500" height="970" />
+    </state>
+    <state width="1460" height="354" key="GridCell.Tab.1.right/0.0.1500.970/-1920.0.1920.1050@0.0.1500.970" timestamp="1602776568574" />
+    <state width="1460" height="354" key="GridCell.Tab.2.bottom" timestamp="1602776568575">
+      <screen x="0" y="0" width="1500" height="970" />
+    </state>
+    <state width="1460" height="354" key="GridCell.Tab.2.bottom/0.0.1500.970/-1920.0.1920.1050@0.0.1500.970" timestamp="1602776568575" />
+    <state width="1460" height="354" key="GridCell.Tab.2.center" timestamp="1602776568575">
+      <screen x="0" y="0" width="1500" height="970" />
+    </state>
+    <state width="1460" height="354" key="GridCell.Tab.2.center/0.0.1500.970/-1920.0.1920.1050@0.0.1500.970" timestamp="1602776568575" />
+    <state width="1460" height="354" key="GridCell.Tab.2.left" timestamp="1602776568575">
+      <screen x="0" y="0" width="1500" height="970" />
+    </state>
+    <state width="1460" height="354" key="GridCell.Tab.2.left/0.0.1500.970/-1920.0.1920.1050@0.0.1500.970" timestamp="1602776568575" />
+    <state width="1460" height="354" key="GridCell.Tab.2.right" timestamp="1602776568575">
+      <screen x="0" y="0" width="1500" height="970" />
+    </state>
+    <state width="1460" height="354" key="GridCell.Tab.2.right/0.0.1500.970/-1920.0.1920.1050@0.0.1500.970" timestamp="1602776568575" />
+    <state width="1460" height="354" key="GridCell.Tab.3.bottom" timestamp="1602776568575">
+      <screen x="0" y="0" width="1500" height="970" />
+    </state>
+    <state width="1460" height="354" key="GridCell.Tab.3.bottom/0.0.1500.970/-1920.0.1920.1050@0.0.1500.970" timestamp="1602776568575" />
+    <state width="1460" height="354" key="GridCell.Tab.3.center" timestamp="1602776568575">
+      <screen x="0" y="0" width="1500" height="970" />
+    </state>
+    <state width="1460" height="354" key="GridCell.Tab.3.center/0.0.1500.970/-1920.0.1920.1050@0.0.1500.970" timestamp="1602776568575" />
+    <state width="1460" height="354" key="GridCell.Tab.3.left" timestamp="1602776568575">
+      <screen x="0" y="0" width="1500" height="970" />
+    </state>
+    <state width="1460" height="354" key="GridCell.Tab.3.left/0.0.1500.970/-1920.0.1920.1050@0.0.1500.970" timestamp="1602776568575" />
+    <state width="1460" height="354" key="GridCell.Tab.3.right" timestamp="1602776568575">
+      <screen x="0" y="0" width="1500" height="970" />
+    </state>
+    <state width="1460" height="354" key="GridCell.Tab.3.right/0.0.1500.970/-1920.0.1920.1050@0.0.1500.970" timestamp="1602776568575" />
+    <state x="282" y="130" key="SettingsEditor" timestamp="1602851601454">
+      <screen x="0" y="0" width="1500" height="970" />
+    </state>
+    <state x="282" y="130" key="SettingsEditor/0.0.1500.970/-1920.0.1920.1050@0.0.1500.970" timestamp="1602851601454" />
+    <state x="343" y="218" key="Vcs.Push.Dialog.v2" timestamp="1602841623398">
+      <screen x="0" y="0" width="1500" height="970" />
+    </state>
+    <state x="343" y="218" key="Vcs.Push.Dialog.v2/0.0.1500.970/-1920.0.1920.1050@0.0.1500.970" timestamp="1602841623398" />
+    <state x="490" y="386" width="610" height="196" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602774679457">
+      <screen x="0" y="0" width="1500" height="970" />
+    </state>
+    <state x="490" y="386" width="610" height="196" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1500.970/-1920.0.1920.1050@0.0.1500.970" timestamp="1602774679457" />
+  </component>
+</project>
